@@ -5,6 +5,7 @@
 * [btop4++](https://github.com/aristocratos/btop/) - A monitor of resources
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly
 * [Cheat Engine](https://www.cheatengine.org/) - A development environment focused on modding
+* [ClipClip](https://clipclip.com/) - Take the pain out of copying & pasting
 * [CMake](https://cmake.org/) - A Powerful Software Build System
 * [CrystalDisk](https://crystalmark.info/en/) - Crystal Dew World
 * [Discord](https://discord.com/) - Group Chat That’s All Fun & Games
