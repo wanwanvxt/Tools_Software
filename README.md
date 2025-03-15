@@ -5,10 +5,8 @@
 * [btop4++](https://github.com/aristocratos/btop/) - A monitor of resources
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Remove large amounts of unwanted applications quickly
 * [Cheat Engine](https://www.cheatengine.org/) - A development environment focused on modding
-* [ClipClip](https://clipclip.com/) - Take the pain out of copying & pasting
 * [CMake](https://cmake.org/) - A Powerful Software Build System
 * [CrystalDisk](https://crystalmark.info/en/) - Crystal Dew World
-* [Discord](https://discord.com/) - Group Chat That’s All Fun & Games
 * [dnSpyEx](https://github.com/dnSpyEx/dnSpy/) - .NET debugger and assembly editor
 * [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly
 * [EVKey](https://evkeyvn.com/) - Vietnamese Keyboard
@@ -17,8 +15,10 @@
 * [GitExtensions](https://gitextensions.github.io/) - Standalone UI tool for managing Git repositories
 * [GitHub Desktop](https://github.com/apps/desktop/) - Experience Git without the struggle
 * [HxD](https://mh-nexus.de/en/hxd/) - Freeware Hex Editor and Disk Editor
+* [ILSpy](https://github.com/icsharpcode/ILSpy) - .NET assembly browser and decompiler
 * [ImageMagick](https://imagemagick.org/) - Mastering Digital Image Alchemy
 * [Java Decompiler](https://java-decompiler.github.io/) - Yet another fast Java decompiler
+* [Kdenlive](https://kdenlive.org/en/) - Free and Open Source Video Editor
 * [Krita](https://krita.org/) - Digital Painting. Creative Freedom
 * [LocalSend](https://localsend.org/) - Share files to nearby devices
 * [MTuner](https://github.com/RudjiGames/MTuner/) - C/C++ memory profiler and memory leak finder
@@ -27,9 +27,12 @@
 * [Notepad++](https://notepad-plus-plus.org/) - Free source code editor
 * [OBS Studio](https://obsproject.com/) - A software for video recording and live streaming
 * [Obsidian](https://obsidian.md/) - Sharpen your thinking
-* [PowerShell](https://microsoft.com/PowerShell/) - Cross-platform task automation solution
+* [ols](https://github.com/DanielGavin/ols) - Language server for Odin
+* [PowerShell 7](https://microsoft.com/PowerShell/) - Cross-platform task automation solution
+* [RAD Debugger](https://github.com/EpicGamesExt/raddebugger) - A native, user-mode, multi-process, graphical debugger
 * [Radmin VPN](https://www.radmin-vpn.com/) - Connect remote computers to one local network
 * [Razer Synapse](https://www.razer.com/synapse-4) - Advanced Device Control and Lighting Software
+* [RegScanner](https://www.nirsoft.net/utils/regscanner.html) - Alternative to RegEdit find/search/scan of Windows
 * [Revo Uninstaller](https://www.revouninstaller.com/) - Clean removal of any program from your PC
 * [SHADERed](https://shadered.org/) - The most powerful shader IDE
 * [spacedesk](https://www.spacedesk.net/) - Desktop extension display monitor software
@@ -37,6 +40,7 @@
 * [System Informer](https://systeminformer.com/) - Monitor system resources, debug software and detect malware
 * [Tracy Profiler](https://github.com/wolfpld/tracy/) - Frame profiler
 * [TreeSize](https://www.jam-software.com/treesize) - The Powerful Graphical Manager For Your Storage Systems
+* [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) - The most complete tool for modding, decompiling and unpacking Undertale (and other GameMaker games!)
 * [uv](https://docs.astral.sh/uv/) - An extremely fast Python package and project manager
 * [Visual Studio Code](https://code.visualstudio.com/) - Code Editing. Redefined
 * [VLC media player]() - Cross-platform multimedia player
