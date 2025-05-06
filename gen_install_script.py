@@ -32,9 +32,10 @@ def generate_install_script(markdown_file, output_script="install.ps1"):
 
         cmd = f"choco install {pkg}"
         if params:
-            cmd += f" --params=\"'{params}'\""
+            cmd += f" --params \"'{params}'\""
         if install_args:
-            cmd += f" --install-arguments=\"'{install_args}'\""
+            cmd += f" --install-arguments \"'{install_args}'\""
+        cmd += " -y"
 
         commands.append(cmd)
 
